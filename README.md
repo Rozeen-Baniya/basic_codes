@@ -1,2 +1,2 @@
 # basic_codes
-basics 've learnt
+basics I've learnt
